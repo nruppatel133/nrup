@@ -21,3 +21,9 @@ I'm a Blockchain Developer that currently resides in Downtown Toronto. I spend m
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg">
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg">
 </p>
+
+### Active projects 
+
+- [Covid Markets](https://github.com/nruppatel133/Covid-Markets)
+- Fore: DeFi Experimental Protocol
+- Google Chrome Extensions...

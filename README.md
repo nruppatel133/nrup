@@ -27,3 +27,7 @@ I'm a Blockchain Developer that currently resides in Downtown Toronto. I spend m
 - [Covid Markets](https://github.com/nruppatel133/Covid-Markets)
 - Fore: DeFi Experimental Protocol
 - Google Chrome Extensions...
+
+
+
+![Nrup github stats](https://github-readme-stats.vercel.app/api?username=Nruppatel133&show_icons=true&hide_border=true)

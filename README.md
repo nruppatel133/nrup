@@ -1,4 +1,3 @@
-<img align="left" width="150" height="150" alt="Nrup Patel" src="https://github.com/nruppatel133/nrup/blob/master/assets/IMG_0511.jpg"/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=nruppatel133&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 

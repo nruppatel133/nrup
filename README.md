@@ -1,5 +1,7 @@
 <img align="left" width="150" height="150" alt="Nrup Patel" src="https://github.com/nruppatel133/nrup/blob/master/assets/IMG_0511.jpg"/>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=nruppatel133&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+
 ### I'm [Nrup](https://github.com/nruppatel133)
 
 I'm a Blockchain Developer that currently resides in Downtown Toronto. I spend my time at the intersection of Software, Data, and Product. Trying to integrate them seamlessly.
@@ -27,5 +29,3 @@ I'm a Blockchain Developer that currently resides in Downtown Toronto. I spend m
 - [Covid Markets](https://github.com/nruppatel133/Covid-Markets)
 - Fore: DeFi Experimental Protocol
 - Google Chrome Extensions...
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=nruppatel133&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />

@@ -4,6 +4,8 @@
 
 I'm a Blockchain Developer that currently resides in Downtown Toronto. I spend my time at the intersection of Software, Data, and Product. Trying to integrate them seamlessly.
 
+#
+
 ### I'm Currently
 
 - 🦠 Building and Scaling Covid Markets, a disruptive Covid-19 Tracking Tool [Covid Markets](https://github.com/nruppatel133/Covid-Markets)

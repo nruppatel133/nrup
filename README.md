@@ -30,4 +30,4 @@ I'm a Blockchain Developer that currently resides in Downtown Toronto. I spend m
 
 
 
-[![Nrup](https://github-readme-stats.vercel.app/api?username=nruppatel133)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nruppatel133)](https://github.com/anuraghazra/github-readme-stats)

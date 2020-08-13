@@ -12,3 +12,11 @@ I'm a Blockchain Developer that currently resides in Downtown Toronto. I spend m
 - 📚 Studying Computer Science and Blockchain
 - ₿ Building a DeFi experimental protocol mashing up some of the most exciting innovations in programmable money, gaming, and governance.
 - 🎹 Producing electronic dance music(listening too)
+
+### Stuff I'm really good at
+
+<p>
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+  <img height="40" src="https://en.bitcoinwiki.org/wiki/Solidity#/media/File:Solidity.png">
+</p>

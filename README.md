@@ -9,7 +9,7 @@ I'm a Software Developer that currently resides in Downtown Toronto. I spend my 
 ### I'm Currently
 
 - 🦠 Building and Scaling Covid Markets, a disruptive Covid-19 Tracking Tool [Covid Markets](https://github.com/nruppatel133/Covid-Markets)
-- 📚 Studying Computer Science 
+- 📚 Studying Honours Computer Science 
 - ₿ Building a DeFi experimental protocol mashing up some of the most exciting innovations in programmable money, gaming, and governance.
 - 🎹 Producing electronic dance music(listening too)
 

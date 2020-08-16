@@ -10,7 +10,6 @@ I'm a Software Developer that currently resides in Downtown Toronto. I spend my 
 
 - 🦠 Building and Scaling Covid Markets, a disruptive Covid-19 Tracking Tool [Covid Markets](https://github.com/nruppatel133/Covid-Markets)
 - 📚 Studying Honours Computer Science 
-- ₿ Building a DeFi experimental protocol mashing up some of the most exciting innovations in programmable money, gaming, and governance.
 - 🎹 Producing electronic dance music(listening too)
 
 ### Stuff I'm really good at
@@ -24,8 +23,7 @@ I'm a Software Developer that currently resides in Downtown Toronto. I spend my 
 
 ### Active projects 
 
-- [Covid Markets](https://github.com/nruppatel133/Covid-Markets)
-- Fore: DeFi Experimental Protocol
-- Google Chrome Extensions...
+- [Covid Markets](https://github.com/nruppatel133/Covid-Markets) - Creator
+- Google Chrome Extensions... - Research
 
 
